@@ -1,4 +1,4 @@
-# Project Title
+# GraphQL NodeJs
 
 How to use express-graphql with nodeJs
 
@@ -12,11 +12,12 @@ $ nodemon server.js
 Go to http://localhost:8888/graphql
 ```
 
-### Prerequisites & infos
+### Infos
 
-https://nodejs.org/en/
+```
 http://graphql.org/
-https://jsonplaceholder.typicode.com/
+https://www.npmjs.com/package/express-graphql
+```
 
 ### Queries examples
 
